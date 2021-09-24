@@ -1,0 +1,9 @@
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\bin\Debug\Data.dll
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\bin\Debug\Data.pdb
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\bin\Debug\Entity.dll
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\bin\Debug\Entity.pdb
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\obj\Debug\Data.dll
+C:\Users\Harold Arias\source\repos\Lab05-01\Data\obj\Debug\Data.pdb

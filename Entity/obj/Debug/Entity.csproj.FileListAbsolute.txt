@@ -1,0 +1,6 @@
+C:\Users\Harold Arias\source\repos\Lab05-01\Entity\bin\Debug\Entity.dll
+C:\Users\Harold Arias\source\repos\Lab05-01\Entity\bin\Debug\Entity.pdb
+C:\Users\Harold Arias\source\repos\Lab05-01\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Harold Arias\source\repos\Lab05-01\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Harold Arias\source\repos\Lab05-01\Entity\obj\Debug\Entity.dll
+C:\Users\Harold Arias\source\repos\Lab05-01\Entity\obj\Debug\Entity.pdb
